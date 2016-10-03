@@ -3,6 +3,8 @@ The super simple web-based TV show manager!
 
 **Please note that this project is in an early alpha stage, and so there will most likely be many bugs and glitches. Please report them by creating an issue on this project, or by tweeting @imfakeluke!**
 
+## [Download](https://github.com/featuredepix/TVault/releases)
+
 ## Features
 * Track your TV shows!
 * Get a calendar view of when your favourite TV shows air!
